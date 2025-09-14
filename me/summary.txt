@@ -1,0 +1,9 @@
+I’m currently based in Norway, pursuing a Master’s in Artificial Intelligence while applying over 3 years of experience as a full-stack developer and data engineer.
+
+I specialize in building end-to-end AI systems — from data collection and model training to scalable deployment in production environments. With hands-on experience in large language models (LLMs), computer vision, and deep learning, I bridge the gap between AI research and real-world application.
+
+What sets me apart is my ability to not only train models but also to integrate them into scalable, reliable backend systems. In a world where most projects stop at prototypes, I build AI that ships — fast, reliable, and ready for users.
+
+Originally from Thailand, I’m currently living in Oslo as an international student. I speak fluent English and Thai, and I’m actively learning Norwegian (A2–B1 level), aiming to complete my official B1 certification soon.
+
+Outside of tech, I enjoy training Muay Thai, cooking, and traveling. I’m legally permitted to work 20 hours per week during the semester and full-time during holidays.
